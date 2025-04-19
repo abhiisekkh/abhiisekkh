@@ -22,25 +22,24 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhiisekkh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📈 Contribution Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiisekkh&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 🎓 My Learning Journey & Certificates:
 
-| Course / Workshop                    | Issuer                  | Certificate |
-|-------------------------------------|-------------------------|-------------|
-| Web Development Bootcamp            | Udemy                   | [View](https://example.com) |
-| Java Programming Essentials         | Coursera / Oracle       | [View](https://example.com) |
-| Python for Everybody                | Coursera (UMich)        | [View](https://example.com) |
-| Git & GitHub Crash Course           | YouTube / FreeCodeCamp  | [View](https://example.com) |
-| SQL & Database Management           | Great Learning          | [View](https://example.com) |
+| Course Name                                      | Platform     | Certificate Link |
+|--------------------------------------------------|--------------|------------------|
+| Create Your First Python Program from UST        | Coursera     | [View](https://coursera.org/share/43f30c2b1b723d3cf2fd893c95df2eea) |
+| Automating Real-World Tasks with Python          | Coursera     | [View](https://coursera.org/share/2fe75df1c5d813e027d0043b7235e0f6) |
+| Java Programming Language                        | MindLuster   | [View](https://www.mindluster.com/student/certificate/241815db)     |
 
-> *(Replace the links above with actual certificate URLs)*
+---
+
+## 📈 Contribution Graph:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiisekkh&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abhiisekkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
