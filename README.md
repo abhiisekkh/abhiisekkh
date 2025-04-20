@@ -31,7 +31,7 @@
 | Create Your First Python Program from UST        | Coursera         | [View](https://coursera.org/share/43f30c2b1b723d3cf2fd893c95df2eea) |
 | Automating Real-World Tasks with Python          | Coursera         | [View](https://coursera.org/share/2fe75df1c5d813e027d0043b7235e0f6) |
 | Java Programming Language                        | MindLuster       | [View](https://www.mindluster.com/student/certificate/241815db)     |
-| Ethics in the Age of Generative AI               | LinkedIn Learning| [View](https://www.linkedin.com/learning/certificates/36567e70a4b19788be0da5e208f89166726650db2d7b83dcfcf63cf4e7207b4e?trk=share_certificate) |
+| Ethics in the Age of Generative AI               | LinkedIn Learning| [View](https://www.linkedin.com/learning/certificates/16476f336bb8dea59cd1f1b531b1d520620c544eaffb6874f124229cf19addad?trk=share_certificate) |
 
 ---
 
